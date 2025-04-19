@@ -9,9 +9,9 @@ A Streamlit application that allows users to manage a watchlist of keywords and 
 pip install -r requirements.txt
 ```
 
-2. Create a `.env` file in the root directory and add your News API key:
+2. Create a `.env` file in the root directory and add your Google Search API:
 ```
-NEWS_API_KEY=your_api_key_here
+SERP_API_KEY=your_api_key_here
 ```
 
 You can get a free API key from [News API](https://newsapi.org/).
